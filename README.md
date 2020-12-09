@@ -1,5 +1,5 @@
 # Ontonotes_NER
-Train an NER model on Ontonotes V5.
+Train an NER model on Ontonotes V5 using Allennlp implementation.
 
 ## Instructions
 1. Please define the data paths and model path in run.sh;
